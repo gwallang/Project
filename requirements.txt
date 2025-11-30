@@ -27,3 +27,4 @@ urllib3==2.5.0
 virtualenv==20.31.2
 virtualenvwrapper-win==1.2.7
 whitenoise==6.11.0
+python-dotenv==1.2.1
